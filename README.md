@@ -18,7 +18,7 @@ Patrón de Comportamiento
 
 ### Ejemplo Real
 
-Mediante la implementación del patrón de diseño Observer desarrollaremos una aplicación que cargue desde el inicio la configuración del sistema. Dicha configuración notificara de forma automática a todos los objetos que estén interesado en los cambios, todo esto con la finalidad de que los objetos interesados en la configuración no tenga que consultar cada momento si existe algún cambio importante para reflejarlo al usuario.
+Mediante la implementación del patrón de diseño Observer desarrollaremos una aplicación que cargue desde el inicio la configuración del sistema. Dicha configuración notificará de forma automática a todos los objetos que estén interesados en los cambios, todo esto con la finalidad de que los objetos interesados en la configuración no tengan que consultar cada momento si existe algún cambio importante para reflejarlo al usuario.
 
 Solución, sin el patrón Observer:
 
